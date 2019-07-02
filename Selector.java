@@ -15,12 +15,6 @@ import java.util.NoSuchElementException;
  */
 public final class Selector {
 
-/**
- * Can't instantiate this class.
- *
- * D O   N O T   C H A N G E   T H I S   C O N S T R U C T O R
- *
- */
    private Selector() { }
 
 
